@@ -19,7 +19,7 @@ print(f"hello, {name}", end="\n")
 #official python doc of print(), argument expl.
 
 # *objects -> any number of obj can be inserted
-# sep=' ' -> separator when multiple arguments get printed
+# sep=' ' -> separator when multiple arguments get printed, by default a space
 # end='\n' -> end is ending the line, \n means new line
-#hallo
+
 #cs50 p minute 44:55 https://www.youtube.com/watch?v=JP7ITIXGpHk
